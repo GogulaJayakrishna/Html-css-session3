@@ -1,0 +1,17 @@
+
+  .p{
+    width: 50%;
+    margin: auto;
+  } 
+  h1{
+    background-color: aqua;
+    width: 700px;
+    margin: auto;
+  }
+.o{
+    width: 50%;
+    margin: auto;
+}
+body{
+    background-color: cadetblue;
+}
